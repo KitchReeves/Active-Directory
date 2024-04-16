@@ -96,5 +96,12 @@ Step 16 Log back into the Client-VM as a Domain admin to allow remote access.
 
 ![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/5ddfca27-d3a5-490f-9a12-8f441eb57ebe)
 
+Step 17 Creating 10,000 Users using Powershell ISE as Admin.
+
+ Use this link https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 
+ and copy the code into Powershell and run it.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/69ffa3e3-fafd-455c-beab-f15be61293ac)
+
 
 
