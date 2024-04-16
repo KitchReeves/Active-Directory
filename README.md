@@ -82,4 +82,19 @@ Step 13 Set Client-VM's DNS to Server-VM's private Ip Address.
 
 ![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/93802d07-f364-4892-a242-a4d258909694)
 
-Step 14 Restart the Client-VM
+Step 14 Restart the Client-VM and log back in
+
+Step 15 Add Client-VM to the Domain
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/48e0cbb8-6d3f-4cc9-a86d-3bf31622ea88)
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/79290139-0704-4f24-864f-86b97a268aa3)
+
+You should be able to see the Client-VM on the Server-VM now.
+
+Step 16 Log back into the Client-VM as a Domain admin to allow remote access.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/5ddfca27-d3a5-490f-9a12-8f441eb57ebe)
+
+
+
