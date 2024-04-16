@@ -8,7 +8,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,35 +23,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+Step 1 Creating a Server-VM.
 
-<h2>Deployment and Configuration Steps</h2>
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/73c69125-8f1c-4c91-941c-2415574d3a37)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Step 2 Set the Server-VM's private ip to static, as we will be using it as the DNS for our Client-VM
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/db988e10-54a2-4a4f-b955-5f488568e5ed)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-![image](https://github.com/KitchReeves/configure-ad/assets/158783649/3016c530-547a-4ff3-ad1d-7b1bbcc39ee0)
+Step 3 Creat the Client-VM and be sure to put it on the same V-net as the Server-VM
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/f948c404-f7d1-4fca-85ae-82882d172638)
+
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/204d8bf3-bbe6-4ded-a0a9-279600799570)
+
+Step 5 Connect to both VMs using Remote Desktop
