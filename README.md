@@ -103,5 +103,27 @@ Step 17 Creating 10,000 Users using Powershell ISE as Admin.
 
 ![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/69ffa3e3-fafd-455c-beab-f15be61293ac)
 
+Step 18 Login as one of the random new users on the Client-VM
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/53a9ddd0-d0ed-4b54-bbb4-b62978ee2e25)
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/a726a5d5-9645-4ea2-a036-f8b0f53d159a)
+
+ Now that the setup is done, I'm going to create Files on the Server-VM for clients to access.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/b6eeee87-9121-473e-ac0f-7655fbf9c1e2)
+
+Changing the permissions level
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/a0f3ad99-2877-427d-892f-dbbd02ceb797)
+
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/5401cdaf-907e-417d-8475-68ae2ede1392)
+
+
+
+
+
+
 
 
