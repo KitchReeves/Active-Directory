@@ -120,6 +120,39 @@ Changing the permissions level
 
 ![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/5401cdaf-907e-417d-8475-68ae2ede1392)
 
+The Client can see and open certain files
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/a1e47c30-5d81-4b0a-ba41-714b4c3e5fb7)
+
+Trying to Create a new Document with Read only permissions
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/f60946e4-c2f0-48c2-a232-bba882a56e86)
+
+Creating a doc with Write permissions
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/2d533bd3-8c51-4753-adc1-f4fc2e81c651)
+
+Creating a New Group to be able to access special files
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/ee99043b-7f81-4d99-86c4-aa34091477f0)
+
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/373a558a-7fd6-499f-a86d-255a98f7d59e)
+
+The Client Can't Access the Folder due to not being apart of the security group
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/03afed5b-5609-4837-af6d-d65fe270271a)
+
+Adding the Client to the Special access group. Once added, the Client will need to restart to receive the new permissions.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/b5fb8c6c-3862-487a-9c24-bbd08f8d4091)
+
+Client accessing the special folder.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/df279fac-b6e2-4c60-8c89-e0d60fa8de95)
+
+
+
 
 
 
