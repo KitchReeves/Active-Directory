@@ -151,6 +151,38 @@ Client accessing the special folder.
 
 ![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/df279fac-b6e2-4c60-8c89-e0d60fa8de95)
 
+Showing DNS between the Client and the Domain.
+
+Creating a A-record using the server-vm's private IP.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/c5b14e41-9601-44fc-a25d-0de6eb8cadaa)
+
+The Client-VM Pinging the new A-record mainframe
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/fbbb1109-f152-4fb0-a629-56a7e9fbdada)
+
+Changing mainframe's IP. 
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/609f1817-30b5-4020-8342-76c850d012fc)
+
+On the client ipconfig /displaydns still shows the old IP.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/50e624ca-e638-4f63-a059-9cea235c32e3)
+
+Flushing the DNS and ping mainframe again shows new IP.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/5adf9427-b628-4285-bcdb-f57f9d601edb)
+
+Creating a CNAME on the Server-VM.
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/4d91d8a2-e05a-4a8c-82bd-aec5fe3703ef)
+
+Back on the Client-VM ping search shows one of google's IPs
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/4ea53e9a-d55e-485f-be4c-be843451e5b8)
+
+![image](https://github.com/KitchReeves/Active-Directory/assets/158783649/b4e403fa-ebe4-42cb-9db9-3b901f518499)
+
 
 
 
